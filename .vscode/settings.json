@@ -1,0 +1,9 @@
+{
+    "eslint.enable": false,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.words": ["linklist"]
+}
