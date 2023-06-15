@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![test](https://github.com/tjx666/tsconfig/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/tsconfig/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
+[![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-3%2F200-green" alt="3/200" />
-<img src="https://img.shields.io/badge/easy-2-green" alt="2"/>
-<img src="https://img.shields.io/badge/medium-1-yellow" alt="1"/>
+<img src="https://img.shields.io/badge/progress-3/200-green" />
+<img src="https://img.shields.io/badge/easy-2-green" />
+<img src="https://img.shields.io/badge/medium-1-yellow" />
 
 </div>
 
