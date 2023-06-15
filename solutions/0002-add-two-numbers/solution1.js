@@ -5,7 +5,7 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
-export function addTwoNumbers(l1, l2) {
+export default function addTwoNumbers(l1, l2) {
     const sentinel = { next: null };
     let tail = sentinel;
     let i = l1;
