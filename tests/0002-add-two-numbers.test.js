@@ -3,8 +3,9 @@ import { describe, it, expect } from 'vitest';
 import { createLinkListFromArray } from './utils/linklist';
 import addTwoNumbers1 from '../solutions/0002-add-two-numbers/solution1';
 import addTwoNumbers2 from '../solutions/0002-add-two-numbers/solution2';
+import addTwoNumbers3 from '../solutions/0002-add-two-numbers/solution3';
 
-[addTwoNumbers1, addTwoNumbers2].map((addTwoNumbers, index) => {
+[addTwoNumbers1, addTwoNumbers2, addTwoNumbers3].map((addTwoNumbers, index) => {
     /**
      * @param {number[]} nums1
      * @param {number[]} nums2
