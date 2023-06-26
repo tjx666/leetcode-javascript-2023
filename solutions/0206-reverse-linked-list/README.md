@@ -1,4 +1,4 @@
-# [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+# [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list)
 
 <img src="https://img.shields.io/badge/easy-green" />
 

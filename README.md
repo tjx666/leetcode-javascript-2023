@@ -12,8 +12,8 @@
 
 ## 刷题顺序
 
-1. [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)
-2. [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+1. [2. 两数相加](https://leetcode.cn/problems/add-two-numbers)
+2. [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list)
 3. [445. 两数相加 II](https://leetcode.cn/problems/add-two-numbers-ii/)
-4. [160. 相交链表](hhttps://leetcode.cn/problems/intersection-of-two-linked-lists)
+4. [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists)
 5. [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle)

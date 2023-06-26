@@ -1,4 +1,4 @@
-# [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/)
+# [2. 两数相加](https://leetcode.cn/problems/add-two-numbers)
 
 <img src="https://img.shields.io/badge/easy-green" />
 
