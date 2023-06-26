@@ -1,4 +1,4 @@
-# [160. 相交链表](hhttps://leetcode.cn/problems/intersection-of-two-linked-lists/ttps://leetcode.cn/problems/add-two-numbers/)
+# [160. 相交链表](hhttps://leetcode.cn/problems/intersection-of-two-linked-lists)
 
 <img src="https://img.shields.io/badge/easy-green" />
 
