@@ -18,7 +18,7 @@ import addTwoNumbers3 from '../solutions/0002-add-two-numbers/solution3';
         expect(addTwoNumbers(num1, num2)).deep.eq(sum);
     }
 
-    describe(`0002-add-two-numbers-${index}`, () => {
+    describe(`0002-add-two-numbers-${index + 1}`, () => {
         it('edge cases', () => {
             expectDeepEquals([0], [0], [0]);
 

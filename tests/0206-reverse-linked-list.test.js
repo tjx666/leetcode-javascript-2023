@@ -6,7 +6,7 @@ import reverseList2 from '../solutions/0206-reverse-linked-list/solution2';
 import reverseList3 from '../solutions/0206-reverse-linked-list/solution3';
 
 [reverseList1, reverseList2, reverseList3].forEach((reverseList, index) => {
-    describe(`0206-reverse-linked-list-${index}`, () => {
+    describe(`0206-reverse-linked-list-${index + 1}`, () => {
         it('edge case', () => {
             expect(reverseList(createLinkListFromArray([]))).deep.eq(createLinkListFromArray([]));
             expect(reverseList(createLinkListFromArray([1]))).deep.eq(createLinkListFromArray([1]));
