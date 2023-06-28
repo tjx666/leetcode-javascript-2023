@@ -4,8 +4,8 @@
 
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-5/200-green" />
-<img src="https://img.shields.io/badge/easy-4-green" />
+<img src="https://img.shields.io/badge/progress-7/200-green" />
+<img src="https://img.shields.io/badge/easy-5-green" />
 <img src="https://img.shields.io/badge/medium-2-yellow" />
 
 </div>
@@ -18,3 +18,4 @@
 4. [160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists)
 5. [141. 环形链表](https://leetcode.cn/problems/linked-list-cycle)
 6. [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii)
+7. [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/description/)
