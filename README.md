@@ -4,8 +4,8 @@
 
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-9/200-green" />
-<img src="https://img.shields.io/badge/easy-7-green" />
+<img src="https://img.shields.io/badge/progress-10/200-green" />
+<img src="https://img.shields.io/badge/easy-8-green" />
 <img src="https://img.shields.io/badge/medium-2-yellow" />
 
 </div>
@@ -21,3 +21,4 @@
 7. [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/description/)
 8. [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements)
 9. [83. 删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/description)
+10. [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/description)
