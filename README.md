@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/progress-15/200-green" />
 <img src="https://img.shields.io/badge/easy-13-green" />
-<img src="https://img.shields.io/badge/medium-2-yellow" />
+<img src="https://img.shields.io/badge/medium-3-yellow" />
 
 </div>
 
@@ -27,3 +27,4 @@
 13. [0144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
 14. [0094. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
 15. [0145. 二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/description/)
+16. [0102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
