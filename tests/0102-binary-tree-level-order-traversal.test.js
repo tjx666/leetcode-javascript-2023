@@ -1,7 +1,7 @@
 import { test, expect } from 'vitest';
 import levelOrder from '../solutions/0102-binary-tree-level-order-traversal/solution1';
 
-test.only(`0102-binary-tree-level-order-traversal`, () => {
+test(`0102-binary-tree-level-order-traversal`, () => {
     // expect(levelOrder(null)).deep.eq([]);
     expect(
         levelOrder({
