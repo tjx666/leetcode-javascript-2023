@@ -4,7 +4,7 @@
 
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-12/200-green" />
+<img src="https://img.shields.io/badge/progress-14/200-green" />
 <img src="https://img.shields.io/badge/easy-10-green" />
 <img src="https://img.shields.io/badge/medium-2-yellow" />
 
@@ -24,3 +24,5 @@
 10. [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/description/)
 11. [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list/)
 12. [1290. 二进制链表转整数](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+13. [0144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)
+14. [0094. 二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/)
