@@ -5,7 +5,7 @@
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
 <img src="https://img.shields.io/badge/progress-18/200-green" />
-<img src="https://img.shields.io/badge/easy-15-green" />
+<img src="https://img.shields.io/badge/easy-16-green" />
 <img src="https://img.shields.io/badge/medium-3-yellow" />
 
 </div>
@@ -30,3 +30,4 @@
 16. [0102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/description/)
 17. [0104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/)
 18. [0226. 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/description/)
+19. [0257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/description/)
