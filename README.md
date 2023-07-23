@@ -4,8 +4,8 @@
 
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-22/200-green" />
-<img src="https://img.shields.io/badge/easy-19-green" />
+<img src="https://img.shields.io/badge/progress-24/200-green" />
+<img src="https://img.shields.io/badge/easy-21-green" />
 <img src="https://img.shields.io/badge/medium-3-yellow" />
 
 </div>
@@ -34,3 +34,5 @@
 20. [0101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
 21. [0111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
 22. [0543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)
+23. [0100. 相同的树](https://leetcode.cn/problems/same-tree/)
+24. [0617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)
