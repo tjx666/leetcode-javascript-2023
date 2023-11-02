@@ -4,8 +4,8 @@
 
 [![test](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml/badge.svg)](https://github.com/tjx666/leetcode-javascript-2023/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/tjx666/leetcode-javascript-2023/branch/main/graph/badge.svg?token=FQDHJODKYD)](https://codecov.io/gh/tjx666/leetcode-javascript-2023)
 
-<img src="https://img.shields.io/badge/progress-26/200-green" />
-<img src="https://img.shields.io/badge/easy-22-green" />
+<img src="https://img.shields.io/badge/progress-27/200-green" />
+<img src="https://img.shields.io/badge/easy-23-green" />
 <img src="https://img.shields.io/badge/medium-4-yellow" />
 
 </div>
@@ -38,3 +38,4 @@
 24. [0617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)
 25. [0236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 26. [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/description/)
+27. [1556. 千位分隔数](https://leetcode.cn/problems/thousand-separator/description/)
