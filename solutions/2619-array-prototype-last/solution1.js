@@ -1,4 +1,5 @@
 /**
+ * 思路：下标访问或者直接用 api Array.prototype.at
  * @return {null|boolean|number|string|Array|Object}
  */
 Array.prototype.last = function () {
