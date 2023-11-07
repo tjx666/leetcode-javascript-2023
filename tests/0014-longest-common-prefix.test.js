@@ -1,4 +1,4 @@
-import { describe, expect, it, test } from 'vitest';
+import { describe, expect, it } from 'vitest';
 import longestCommonPrefix from '../solutions/0014-Longest Common Prefix/solution';
 
 describe('0014-Longest Common Prefix', () => {

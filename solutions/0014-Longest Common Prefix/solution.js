@@ -11,7 +11,7 @@ export default function longestCommonPrefix(strs) {
     for (const str of strs) {
         if (str.length === 0) return '';
 
-        if (str.length < commonPrefix) {
+        if (str.length < commonPrefix.length) {
             commonPrefix = str;
         }
     }
