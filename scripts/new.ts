@@ -15,7 +15,6 @@ const test = resolve(testsFolder, `${title}.test.js`);
 const genTestPromise = fs.writeFile(
     test,
     `import { expect, test } from 'vitest';
-import  from '../solutions/${title}/solution1';
 
 test('${title}', () => {
 
