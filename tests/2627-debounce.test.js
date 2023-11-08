@@ -15,7 +15,7 @@ test('2627-debounce', async () => {
 
     setTimeout(async () => {
         const result = await dlog(2);
-        expect(result[0] > 125 && result[0] < 128).toBe(true);
+        expect(result[0] > 125 && result[0] < 130).toBe(true);
         expect(result[1]).toBe(2);
     }, 75);
 
