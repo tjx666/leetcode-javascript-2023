@@ -1,6 +1,10 @@
 import fs from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import childProcess from 'node:child_process';
+import { promisify } from 'node:util';
+
+const exec = promisify(childProcess.exec);
 
 const title = process.argv[2];
 
@@ -27,3 +31,5 @@ const genSolutionPromise = fs
     .mkdir(solutionsFolder, { recursive: true })
     .then(() => fs.writeFile(solution1, '', 'utf8'));
 await Promise.all([genSolutionPromise, genTestPromise]);
+
+await exec(`code "${solution1}" "${test}"`);
