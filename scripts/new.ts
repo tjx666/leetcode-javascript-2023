@@ -32,4 +32,4 @@ const genSolutionPromise = fs
     .then(() => fs.writeFile(solution1, '', 'utf8'));
 await Promise.all([genSolutionPromise, genTestPromise]);
 
-await exec(`code "${solution1}" "${test}"`);
+await exec(`code-insiders "${solution1}" "${test}"`);
