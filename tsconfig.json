@@ -1,4 +1,10 @@
 {
     "extends": "@yutengjing/tsconfig-node/tsconfig.json",
-    "include": ["solutions/**/*.js", "tests/**/*.js", "scripts/*.ts", "typings/*.d.ts"]
+    "include": [
+        "solutions/**/*.js",
+        "solutions/**/*.ts",
+        "tests/**/*.js",
+        "scripts/*.ts",
+        "typings/*.d.ts"
+    ]
 }
