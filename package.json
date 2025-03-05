@@ -1,6 +1,7 @@
 {
     "name": "leetcode-javascript-2023",
     "type": "module",
+    "packageManager": "pnpm@9.15.6",
     "prettier": "@yutengjing/prettier-config",
     "lint-staged": {
         "*.{js,ts,json,md,yml}": "prettier --write"
@@ -14,15 +15,15 @@
         "new": "tsx scripts/new.ts"
     },
     "devDependencies": {
-        "@types/node": "^20.9.4",
-        "@vitest/coverage-v8": "^0.34.6",
-        "@yutengjing/prettier-config": "^0.0.1",
-        "@yutengjing/tsconfig-node": "^0.0.3",
-        "lint-staged": "^15.1.0",
-        "prettier": "^3.1.0",
-        "simple-git-hooks": "^2.9.0",
-        "tsx": "^4.2.0",
-        "typescript": "^5.3.2",
-        "vitest": "^0.34.6"
+        "@types/node": "^22.13.9",
+        "@vitest/coverage-v8": "^3.0.7",
+        "@yutengjing/prettier-config": "^1.5.0",
+        "@yutengjing/tsconfig-node": "^0.0.5",
+        "lint-staged": "^15.4.3",
+        "prettier": "^3.5.3",
+        "simple-git-hooks": "^2.11.1",
+        "tsx": "^4.19.3",
+        "typescript": "^5.8.2",
+        "vitest": "^3.0.7"
     }
 }
